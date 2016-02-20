@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Projectone Server">
+    <serverData>
+      <paths name="Projectone Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Users/imclockedout/Code/projectone/public" local="" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
